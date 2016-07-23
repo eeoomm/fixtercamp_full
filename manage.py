@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Que informacion quieres 
 import os
 import sys
 
